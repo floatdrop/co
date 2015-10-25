@@ -31,5 +31,8 @@
   "engines": {
     "iojs": ">= 1.0.0",
     "node": ">= 0.12.0"
+  },
+  "dependencies": {
+    "pinkie-promise": "^1.0.0"
   }
 }
