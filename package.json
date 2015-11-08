@@ -1,5 +1,5 @@
 {
-  "name": "co",
+  "name": "co-with-promise",
   "version": "4.6.0",
   "description": "generator async control flow goodness",
   "keywords": [
@@ -30,7 +30,7 @@
   "repository": "tj/co",
   "engines": {
     "iojs": ">= 1.0.0",
-    "node": ">= 0.12.0"
+    "node": ">= 0.10.0"
   },
   "dependencies": {
     "pinkie-promise": "^1.0.0"

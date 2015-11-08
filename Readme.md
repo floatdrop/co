@@ -1,10 +1,12 @@
-# co
+# co-with-promise
 
 [![Gitter][gitter-image]][gitter-url]
 [![NPM version][npm-image]][npm-url]
 [![Build status][travis-image]][travis-url]
 [![Test coverage][coveralls-image]][coveralls-url]
 [![Downloads][downloads-image]][downloads-url]
+
+This is a fork of [co](https://github.com/tj/co) with [Promise ponyfill](https://github.com/floatdrop/pinkie-promise) inside.
 
   Generator based control flow goodness for nodejs and the browser,
   using promises, letting you write non-blocking code in a nice-ish way.
@@ -200,13 +202,13 @@ fn(true).then(function (val) {
 
   MIT
 
-[npm-image]: https://img.shields.io/npm/v/co.svg?style=flat-square
-[npm-url]: https://npmjs.org/package/co
-[travis-image]: https://img.shields.io/travis/tj/co.svg?style=flat-square
-[travis-url]: https://travis-ci.org/tj/co
-[coveralls-image]: https://img.shields.io/coveralls/tj/co.svg?style=flat-square
-[coveralls-url]: https://coveralls.io/r/tj/co
-[downloads-image]: http://img.shields.io/npm/dm/co.svg?style=flat-square
-[downloads-url]: https://npmjs.org/package/co
+[npm-image]: https://img.shields.io/npm/v/co-with-promise.svg?style=flat-square
+[npm-url]: https://npmjs.org/package/co-with-promise
+[travis-image]: https://img.shields.io/travis/tj/co-with-promise.svg?style=flat-square
+[travis-url]: https://travis-ci.org/tj/co-with-promise
+[coveralls-image]: https://img.shields.io/coveralls/tj/co-with-promise.svg?style=flat-square
+[coveralls-url]: https://coveralls.io/r/tj/co-with-promise
+[downloads-image]: http://img.shields.io/npm/dm/co-with-promise.svg?style=flat-square
+[downloads-url]: https://npmjs.org/package/co-with-promise
 [gitter-image]: https://badges.gitter.im/Join%20Chat.svg
 [gitter-url]: https://gitter.im/tj/co?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge
