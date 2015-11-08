@@ -204,10 +204,10 @@ fn(true).then(function (val) {
 
 [npm-image]: https://img.shields.io/npm/v/co-with-promise.svg?style=flat-square
 [npm-url]: https://npmjs.org/package/co-with-promise
-[travis-image]: https://img.shields.io/travis/tj/co-with-promise.svg?style=flat-square
-[travis-url]: https://travis-ci.org/tj/co-with-promise
-[coveralls-image]: https://img.shields.io/coveralls/tj/co-with-promise.svg?style=flat-square
-[coveralls-url]: https://coveralls.io/r/tj/co-with-promise
+[travis-image]: https://img.shields.io/travis/floatdrop/co-with-promise.svg?style=flat-square
+[travis-url]: https://travis-ci.org/floatdrop/co-with-promise
+[coveralls-image]: https://img.shields.io/coveralls/floatdrop/co-with-promise.svg?style=flat-square
+[coveralls-url]: https://coveralls.io/r/floatdrop/co-with-promise
 [downloads-image]: http://img.shields.io/npm/dm/co-with-promise.svg?style=flat-square
 [downloads-url]: https://npmjs.org/package/co-with-promise
 [gitter-image]: https://badges.gitter.im/Join%20Chat.svg
